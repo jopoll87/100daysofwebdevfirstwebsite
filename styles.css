@@ -1,0 +1,67 @@
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: magenta;
+}
+p {
+  font-family: sans-serif;
+
+  color: purple;
+}
+a {
+  font-family: serif;
+  color: coral;
+  font-size: 1.1em;
+  text-decoration: none;
+  font-weight: 700;
+}
+a:hover {
+  color: crimson;
+}
+#todays-challenge {
+  font-family: "Fira Sans", sans-serif;
+  color: palevioletred;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+img {
+  width: 150px;
+  border-radius: 50%;
+}
+ul{
+  font-family: sans-serif;
+  color: purple;
+  list-style: none;
+  padding: 0;
+}
+
+.goal-list {
+  background-color: oldlace;
+  border: 2px;
+  border-color: black;
+  border-radius: 10px;
+  margin: 25px auto;
+  width: 25%;
+  padding: 1px 0;
+  font-weight: bold;
+  box-shadow: 3px 3px rgba(128, 0, 128 , 0.15);
+}
+
+h4 {
+  background-color: oldlace;
+  padding: 5px 5px;
+  width: 5%;
+  text-align: center;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h4:hover {
+  background-color: coral;
+}
+ #home-button:hover{
+  color: oldlace
+ }
